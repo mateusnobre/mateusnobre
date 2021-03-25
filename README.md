@@ -6,7 +6,7 @@ I'm a passionate and self-motivated aspiring Data Scientist pursuing a bachelor 
 
 #### Key Skills:
 - Developing and iterating through Machine Learning Models
-- Programming languages: Python, SQL, Shell, C, Ruby
+- Programming languages: Python, SQL, Shell, C/C++
 - Data warehousing, data modeling, data pipelines, ETL, OLAP
 - Data Viz
 - Strong communication (writing, conversation, presentation) skills
@@ -27,4 +27,4 @@ I'm a passionate and self-motivated aspiring Data Scientist pursuing a bachelor 
 ####  What I Love To Do:
 - Dance (Forró is my preferred dance)
 - HIking (Discovering beachs and waterfalls)
-- Talk with people from variou cultures and understand their context (Learning languages come as a natural hobby from that)
+- Talk with people from various cultures and understand their context (Learning languages come as a natural hobby from that)
