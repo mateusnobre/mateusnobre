@@ -1,6 +1,13 @@
 # Junior Computer Engineering Student, Aspiring Data Scientist
 
 I'm a passionate and self-motivated aspiring Data Scientist pursuing a bachelor degree in Computer Engineering (Junior year). I have industry experience in data analysis and data engineering.
+### Some stats
+
+<div class='stats'>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusnobre&layout=compact&hide=html,css,scss&langs_count=6" />
+  </a>
+</div>
 
 ### Check out my website: http://mateusnobre.github.io/
 
