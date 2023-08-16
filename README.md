@@ -1,6 +1,4 @@
-# Computer Engineering Student, Data Scientist
-
-I'm a passionate Data Scientist pursuing a bachelor degree in Computer Engineering with industry experience in data analysis and data engineering.
+#  ML Engineer | Senior Data Scientist @4tune | Building with LLMs and Gen AI 
 
 ### Career Philosophy:
 - Always learn, on a fast-paced way, through surrounding me with brilliant, motivated and open-minded people that can help me grow.
