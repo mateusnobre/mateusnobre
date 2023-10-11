@@ -1,4 +1,4 @@
-#  ML Engineer | Senior Data Scientist @4tune | Building with LLMs and Gen AI 
+#  ML Engineer | Building with LLMs and Gen AI 
 
 ### Career Philosophy:
 - Always learn, on a fast-paced way, through surrounding me with brilliant, motivated and open-minded people that can help me grow.
