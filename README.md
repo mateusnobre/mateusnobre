@@ -11,5 +11,3 @@
 - Get to know different contexts and ways of living (Learning languages comes as a natural hobby)
 
 I do some blogging to share knowledge and learn from the community, go check it out at https://medium.com/@mateusnobrests
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
