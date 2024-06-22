@@ -1,4 +1,5 @@
 #  ML Engineer | Building with LLMs and Gen AI 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mateusnobre](https://github.com/mateusnobre)
 
 ### Career Philosophy:
 - Always learn, in a fast-paced way, by surrounding myself with brilliant, motivated, and open-minded people who can help me grow.
