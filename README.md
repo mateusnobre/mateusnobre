@@ -1,4 +1,4 @@
-#  ML Engineer | Building with LLMs and Gen AI
+#  Building a fintech
 
 ### Career Philosophy:
 - Always learn, in a fast-paced way, by surrounding myself with brilliant, motivated, and open-minded people who can help me grow.
